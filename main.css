@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "Dimitri Swank";
+    src: url('../fonts/twitch1.TTF') format('truetype')
+         url('../fonts/twitch2.TTF') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+    
+    font-family: "Ubuntu";
+    src: url('../font/Ubuntu-Regular') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+
+#logo {
+    float: left;
+    margin: -2px 5px 0 5px;
+    width: 15%;
+}
+  
+
+html, h1 {
+    display: block;
+    font-size: 1.2em;
+    margin-top: .4em;
+    margin-bottom: 3em;
+    margin-left: 0em;
+    margin-right: 0;
+    font-family: "Dimitri Swank", Arial, Helvetica, sans-serif;
+}
+
+html, body {
+    width: 200px;
+    height: 250px;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #9146ff 0%, #f8b2ff 100%);
+}
+
+
+#info {
+    font-family: Arial;
+    font-style: bold;
+}
+
+#farming {
+    font-family: Arial;
+    font-style: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#lv {
+    float: right;
+    margin: 0 0 0 -10px;
+    width:10%;
+}
+
+#in1{
+    border-radius: 15px;
+    margin-top: .3em;
+    margin-bottom: .3em;
+}

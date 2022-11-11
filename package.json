@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "twitch": "^4.6.7"
+  }
+}
