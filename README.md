@@ -23,4 +23,4 @@ TODO:
 // Auto-click functionality (currently can be paired with the Twitch Channel Points Auto-Clicker Extension)
 // Live status + Viewer count display
 
-[!Screenshot](prototype.png)
+![Screenshot](prototype.png)
